@@ -4,6 +4,8 @@ public class UserPO {
 
     private String name;
 
+    private Integer age;
+
     @Override
     public String toString() {
         return super.toString();
