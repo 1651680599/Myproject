@@ -8,5 +8,7 @@ public class UserPO {
     }
 
     public UserPO() {
+        System.out.println("1");
+
     }
 }
