@@ -6,4 +6,6 @@ public class M {
     public int hashCode() {
         return super.hashCode();
     }
+
+    protected String march;
 }
