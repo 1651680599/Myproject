@@ -13,6 +13,8 @@ public class UserPO {
 
     public UserPO() {
         System.out.println("1");
+        System.out.println("2");
+
 
     }
 

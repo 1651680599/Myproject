@@ -4,6 +4,7 @@ public class N {
 
     @Override
     public int hashCode() {
+        System.out.println("2");
         return super.hashCode();
     }
 
