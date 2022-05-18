@@ -8,4 +8,7 @@ public class M {
     }
 
     protected String march;
+
+    protected String march1;
+
 }
