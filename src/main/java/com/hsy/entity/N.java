@@ -1,4 +1,4 @@
 package com.hsy.entity;
 
-public class Base {
+public class N {
 }
